@@ -1,0 +1,15 @@
+print("\t\tBio- Data")
+a=str(input(" Name ="))
+b=str(input(" Father's name ="))
+c=str(input(" Mother's name ="))
+d=str(input(" address ="))
+j= str(input(" OCCUPATION ="))
+e=str(input(" D.o.b ="))
+f=str(input(" Studied school ="))
+g= str(input(" Signature ="))
+h= str(input(" Are you married ="))
+i= str(input(" Enter the CODE  ="))
+if(i=="ENTER"):
+    print("Well , You have cracked it !")
+else:
+    print("\t\t\t\t\t\tyou are caught up ! \n \t\t\t\t\tas you have entered wrong code ")
